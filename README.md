@@ -75,4 +75,4 @@ Model result
 | **Xception**  | **98.33%**   | 96.6MB      | 1,074,789 | 368.18 MB
 
 ## 🌸 License
-MIT © [Om Bhatia](https://github.com/ombhatia99/Face-Mask-Detector/blob/main/LICENSE)
+MIT © [Chinmay Chikhalkar](https://github.com/chinmay-chikhalkar/Face-Mask-Detector.git/blob/main/LICENSE)
